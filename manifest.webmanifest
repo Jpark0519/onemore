@@ -1,0 +1,22 @@
+{
+    "background_color":  "#0E0F12",
+    "short_name":  "OneMore",
+    "icons":  [
+                  {
+                      "type":  "image/png",
+                      "sizes":  "192x192",
+                      "src":  "icon-192.png"
+                  },
+                  {
+                      "type":  "image/png",
+                      "sizes":  "512x512",
+                      "src":  "icon-512.png"
+                  }
+              ],
+    "lang":  "ko",
+    "theme_color":  "#0E0F12",
+    "display":  "standalone",
+    "name":  "OneMore",
+    "scope":  "./",
+    "start_url":  "./"
+}
